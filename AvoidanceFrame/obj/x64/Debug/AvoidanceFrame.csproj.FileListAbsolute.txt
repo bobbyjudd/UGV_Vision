@@ -1,0 +1,17 @@
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\AvoidanceFrame.exe.config
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\AvoidanceFrame.exe
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\AvoidanceFrame.pdb
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\ZedGraph.dll
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\ZedGraph.xml
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\obj\x64\Debug\AvoidanceFrame.Form1.resources
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\obj\x64\Debug\AvoidanceFrame.Properties.Resources.resources
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\obj\x64\Debug\AvoidanceFrame.csproj.GenerateResource.Cache
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\obj\x64\Debug\AvoidanceFrame.exe
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\obj\x64\Debug\AvoidanceFrame.pdb
