@@ -53,6 +53,9 @@
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Emgu.CV.DebuggerVisualizers.VS2015">
+      <HintPath>..\..\..\..\..\..\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.DebuggerVisualizers.VS2015.dll</HintPath>
+    </Reference>
     <Reference Include="Emgu.CV.UI, Version=3.1.0.2504, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\..\..\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.UI.dll</HintPath>
       <SpecificVersion>False</SpecificVersion>
@@ -63,11 +66,19 @@
     <Reference Include="Emgu.CV.World">
       <HintPath>..\..\..\..\..\..\Emgu\emgucv-windesktop 3.1.0.2504\bin\Emgu.CV.World.dll</HintPath>
     </Reference>
+    <Reference Include="FlyCap2CameraControld_v140">
+      <HintPath>..\..\..\..\..\..\Program Files\Point Grey Research\FlyCapture2\bin64\vs2015\FlyCap2CameraControld_v140.dll</HintPath>
+    </Reference>
+    <Reference Include="FlyCapture2GUI_Managedd_v140">
+      <HintPath>..\..\..\..\..\..\Program Files\Point Grey Research\FlyCapture2\bin64\vs2015\FlyCapture2GUI_Managedd_v140.dll</HintPath>
+    </Reference>
+    <Reference Include="FlyCapture2Managedd_v140">
+      <HintPath>..\..\..\..\..\..\Program Files\Point Grey Research\FlyCapture2\bin64\vs2015\FlyCapture2Managedd_v140.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
     <Reference Include="System.Drawing" />
@@ -108,6 +119,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

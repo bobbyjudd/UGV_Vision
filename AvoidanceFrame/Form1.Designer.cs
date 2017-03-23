@@ -37,7 +37,7 @@
             // 
             this.imageBox1.Location = new System.Drawing.Point(12, 12);
             this.imageBox1.Name = "imageBox1";
-            this.imageBox1.Size = new System.Drawing.Size(721, 427);
+            this.imageBox1.Size = new System.Drawing.Size(883, 483);
             this.imageBox1.TabIndex = 2;
             this.imageBox1.TabStop = false;
             // 
@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(745, 451);
+            this.ClientSize = new System.Drawing.Size(907, 507);
             this.Controls.Add(this.imageBox1);
             this.Name = "Form1";
             this.Text = "Form1";

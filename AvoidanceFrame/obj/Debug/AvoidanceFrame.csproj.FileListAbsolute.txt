@@ -1,9 +1,6 @@
 C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\AvoidanceFrame.exe.config
 C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\AvoidanceFrame.exe
 C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\AvoidanceFrame.pdb
-C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\Emgu.CV.UI.dll
-C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\Emgu.CV.UI.GL.dll
-C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\Emgu.CV.World.dll
 C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\ZedGraph.dll
 C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\Emgu.CV.UI.xml
 C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\Emgu.CV.UI.GL.xml
@@ -16,3 +13,8 @@ C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\obj\Debug\AvoidanceFra
 C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\obj\Debug\AvoidanceFrame.csproj.GenerateResource.Cache
 C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\obj\Debug\AvoidanceFrame.exe
 C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\obj\Debug\AvoidanceFrame.pdb
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\FlyCap2CameraControld_v140.dll
+C:\Users\bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\FlyCapture2GUI_Managedd_v140.dll
+C:\Users\bobby\Dropbox\NGCP\AvoidanceFrame\AvoidanceFrame\bin\Debug\FlyCapture2Managedd_v140.dll
